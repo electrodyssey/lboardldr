@@ -1,0 +1,9 @@
+lboardldr is a rom monitor utility for an lboard - a simple Spartan-6 board.
+Code is based upon the AVR350 appnote.
+
+
+
+ lboard: https://github.com/electrodyssey/lboard
+ AVR 350 appnote: http://www.atmel.com/Images/doc1472.pdf
+ uart_print procedures: copied from hekilledmywire.wordpress.com
+ spi and m25p16: https://github.com/gheja/avr
